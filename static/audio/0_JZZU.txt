@@ -1,0 +1,2 @@
+Audio placeholder for: **Mitochondria are the powerhouses of the cell!** They generate most of the cell's supply of adenosine triphosphate (ATP), the energy currency of the cell.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

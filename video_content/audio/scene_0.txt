@@ -1,0 +1,6 @@
+=== TEXT-TO-SPEECH PLACEHOLDER ===
+Text: Mitochondria, often called the "powerhouse of the cell," are organelles responsible for generating most of the cell's energy in the form of ATP.
+Filename: scene_0
+Generated: 1750496033.5344682
+
+Note: This is a placeholder. Integrate with Google Text-to-Speech API or ElevenLabs.

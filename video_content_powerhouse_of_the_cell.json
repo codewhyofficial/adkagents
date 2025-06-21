@@ -1,0 +1,40 @@
+```json
+{
+    "0": {
+        "text": "**Mitochondria are the powerhouses of the cell!** They generate most of the cell's supply of adenosine triphosphate (ATP), the energy currency of the cell.",
+        "video": "https://media.gettyimages.com/id/537848/video/mitochondria-atp-production.mp4",
+        "poster": "https://media.gettyimages.com/id/537848/video/mitochondria-atp-production.jpg",
+        "audio": "static/audio/0_JZZU.mp3"
+    },
+    "1": {
+        "text": "**They have a unique double membrane structure.** This creates compartments that are vital for the electron transport chain and ATP production.",
+        "video": "https://media.gettyimages.com/id/6630783/video/mitochondria-double-membrane.mp4",
+        "poster": "https://media.gettyimages.com/id/6630783/video/mitochondria-double-membrane.jpg",
+        "audio": "static/audio/1_30PW.mp3"
+    },
+    "2": {
+        "text": "**Cellular respiration is their key function.** This process breaks down glucose and other fuel molecules to release energy in the form of ATP.",
+        "video": "https://media.gettyimages.com/id/3646816/video/cellular-respiration.mp4",
+        "poster": "https://media.gettyimages.com/id/3646816/video/cellular-respiration.jpg",
+        "audio": "static/audio/2_8GF0.mp3"
+    },
+    "3": {
+        "text": "**Mitochondria have their own DNA and ribosomes.** This suggests they were once independent bacteria engulfed by early eukaryotic cells, a theory called endosymbiosis.",
+        "video": "https://media.gettyimages.com/id/2422185/video/mitochondria-dna.mp4",
+        "poster": "https://media.gettyimages.com/id/2422185/video/mitochondria-dna.jpg",
+        "audio": "static/audio/3_JQ8A.mp3"
+    },
+    "4": {
+        "text": "**They play a role in programmed cell death (apoptosis).** When a cell is damaged or no longer needed, mitochondria can trigger self-destruction.",
+        "video": "https://media.gettyimages.com/id/2399600/video/apoptosis.mp4",
+        "poster": "https://media.gettyimages.com/id/2399600/video/apoptosis.jpg",
+        "audio": "static/audio/4_KXKG.mp3"
+    },
+    "5": {
+        "text": "**Mitochondrial dysfunction is linked to various diseases.** Problems with their function can contribute to conditions like diabetes, Parkinson's, and heart disease.",
+        "video": "https://media.gettyimages.com/id/6791252/video/mitochondrial-dysfunction-disease.mp4",
+        "poster": "https://media.gettyimages.com/id/6791252/video/mitochondrial-dysfunction-disease.jpg",
+        "audio": "static/audio/5_P2X7.mp3"
+    }
+}
+```

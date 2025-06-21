@@ -1,0 +1,2 @@
+Audio placeholder for: **Mitochondria have their own DNA and ribosomes.** This suggests they were once independent bacteria engulfed by early eukaryotic cells, a theory called endosymbiosis.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

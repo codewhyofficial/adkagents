@@ -1,0 +1,6 @@
+=== TEXT-TO-SPEECH PLACEHOLDER ===
+Text: Their double-membrane structure, with a highly folded inner membrane called cristae, maximizes the surface area for energy production.
+Filename: scene_1
+Generated: 1750496041.5193124
+
+Note: This is a placeholder. Integrate with Google Text-to-Speech API or ElevenLabs.

@@ -1,0 +1,2 @@
+Audio placeholder for: **Mitochondrial dysfunction is linked to various diseases.** Problems with their function can contribute to conditions like diabetes, Parkinson's, and heart disease.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

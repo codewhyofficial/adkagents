@@ -1,0 +1,2 @@
+Audio placeholder for: **They have a unique double membrane structure.** This creates compartments that are vital for the electron transport chain and ATP production.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

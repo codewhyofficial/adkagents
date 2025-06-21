@@ -1,0 +1,2 @@
+Audio placeholder for: **They play a role in programmed cell death (apoptosis).** When a cell is damaged or no longer needed, mitochondria can trigger self-destruction.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

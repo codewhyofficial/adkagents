@@ -1,0 +1,2 @@
+Audio placeholder for: **Cellular respiration is their key function.** This process breaks down glucose and other fuel molecules to release energy in the form of ATP.
+Use Google Text-to-Speech or ElevenLabs API to generate actual audio

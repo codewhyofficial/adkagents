@@ -1,0 +1,6 @@
+=== TEXT-TO-SPEECH PLACEHOLDER ===
+Text: Cellular respiration, a series of chemical reactions, occurs within mitochondria to break down glucose and other molecules to release energy.
+Filename: scene_2
+Generated: 1750496050.5308895
+
+Note: This is a placeholder. Integrate with Google Text-to-Speech API or ElevenLabs.
